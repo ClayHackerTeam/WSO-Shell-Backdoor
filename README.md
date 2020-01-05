@@ -5,6 +5,9 @@ Recoded by Bartes Dwiky
 - Mysql Connect
 - Check PHP Version
 
+# Default pass
+- password : brtz07
+
 # Website / Forum
 - http://www.ootopia.id/
 - http://www.i-zone.co.in/
